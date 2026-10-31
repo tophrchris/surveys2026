@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "repository": "surveys2026",
+  "assets": {
+    "research/surveys/03a199a10ca7d04f23523f97f0d04df33dc4a5737d10d806b5e326c8090fcf80/custom-rig-fov-survey/thumbnails/ngc281-s30-pro-b699238312.jpg": {
+      "sha256": "03a199a10ca7d04f23523f97f0d04df33dc4a5737d10d806b5e326c8090fcf80",
+      "bytes": 69183
+    },
+    "research/surveys/0534785f1d407cca93019271c7d192c8c0e5cbd2221b4896c73bc7caafc9d1ca/custom-rig-fov-survey/thumbnails/ngc281-s50-5ecb97d54a.jpg": {
+      "sha256": "0534785f1d407cca93019271c7d192c8c0e5cbd2221b4896c73bc7caafc9d1ca",
+      "bytes": 67719
+    },
+    "research/surveys/05d2b35799648d30c91d19c6b7f29e374ad32fc2c3f2e134be0157f7340dff25/orion-survey/images/orion-belt-to-sword-a717dea1bf65.jpg": {
+      "sha256": "05d2b35799648d30c91d19c6b7f29e374ad32fc2c3f2e134be0157f7340dff25",
+      "bytes": 4162067
+    },
+    "research/surveys/07ab507b74c67b79d0fd4cc0222f55a971848f55a16259a2868b522e50151f26/custom-rig-fov-survey/images/ic1396-f30-1db30fbf97.jpg": {
+      "sha256": "07ab507b74c67b79d0fd4cc0222f55a971848f55a16259a2868b522e50151f26",
+      "bytes": 1186442
+    },
+    "research/surveys/12100dc8027fc7440287017d06f4770e58e41c6482941e33ddab40b3bb858e93/orion-survey/images/barnards-loop-d62f2202bcc9.jpg": {
+      "sha256": "12100dc8027fc7440287017d06f4770e58e41c6482941e33ddab40b3bb858e93",
+      "bytes": 10596925
+    },
+    "research/surveys/13c38f8b8556423b43b6ce946ac7f05c964d153501cb18397ee8f43128c033f0/backyard-milkyway-survey/images/cocoon-30a751dbc9c4.jpg": {
+      "sha256": "13c38f8b8556423b43b6ce946ac7f05c964d153501cb18397ee8f43128c033f0",
+      "bytes": 4796437
+    },
+    "research/surveys/13c38f8b8556423b43b6ce946ac7f05c964d153501cb18397ee8f43128c033f0/cepheus-cygnus-survey/images/cocoon-nebula-30a751dbc9c4.jpg": {
+      "sha256": "13c38f8b8556423b43b6ce946ac7f05c964d153501cb18397ee8f43128c033f0",
+      "bytes": 4796437
+    },
+    "research/surveys/145b91a5309c63aad3c75790d5b8e4476cd68886d8f08dd59dce977ba0d7809e/custom-rig-fov-survey/images/ic1396-s50-9666106f2a.jpg": {
+      "sha256": "145b91a5309c63aad3c75790d5b8e4476cd68886d8f08dd59dce977ba0d7809e",
+      "bytes": 661194
+    },
+    "research/surveys/1666b048c43472e958c9748fc95c720a16592f7bd1ea839b3a290e7a6a2b2ddc/custom-rig-fov-survey/images/ngc6888-s30-pro-9b9fd66b68.jpg": {
+      "sha256": "1666b048c43472e958c9748fc95c720a16592f7bd1ea839b3a290e7a6a2b2ddc",
+      "bytes": 915823
+    },
+    "research/surveys/18a9fe03fbe63a66a8644d0a1b75dbf7f89056ee7ac52d7d4f160a37fb7a7cd4/custom-rig-fov-survey/thumbnails/ic1396-s30-pro-3209daacba.jpg": {
+      "sha256": "18a9fe03fbe63a66a8644d0a1b75dbf7f89056ee7ac52d7d4f160a37fb7a7cd4",
+      "bytes": 57602
+    },
+    "research/surveys/19daa88910b99bb57ac27c1b860d5ee6e4b42f74f56920e3d0531a16de5c67c2/backyard-milkyway-survey/heroes/milky-way-cepheus-through-vulpecula-compact-scale-map-04f2fbab74.jpg": {
+      "sha256": "19daa88910b99bb57ac27c1b860d5ee6e4b42f74f56920e3d0531a16de5c67c2",
+      "bytes": 268591
+    },
+    "research/surveys/19daa88910b99bb57ac27c1b860d5ee6e4b42f74f56920e3d0531a16de5c67c2/backyard-milkyway-survey/heroes/project-hero.jpg": {
+      "sha256": "19daa88910b99bb57ac27c1b860d5ee6e4b42f74f56920e3d0531a16de5c67c2",
+      "bytes": 268591
+    },
+    "research/surveys/1f1a4fab915575b8393bd4f3f3401aadf5ec45fb2818e8881204c50c1c1720e4/custom-rig-fov-survey/images/m51-f30-da8e3a70d6.jpg": {
+      "sha256": "1f1a4fab915575b8393bd4f3f3401aadf5ec45fb2818e8881204c50c1c1720e4",
+      "bytes": 589692
+    },
+    "research/surveys/2245563d7f47bb8473884f21b01ff51c30eecdc17e42caea11d40a73e971b720/custom-rig-fov-survey/thumbnails/m16-s30-pro-bcc5288282.jpg": {
+      "sha256": "2245563d7f47bb8473884f21b01ff51c30eecdc17e42caea11d40a73e971b720",
+      "bytes": 33035
+    },
+    "research/surveys/2590898467344707cef7502037dbd01e27ffe7de9082f046fb7957f89d7f3584/custom-rig-fov-survey/images/ngc6888-woz61-7700bbd3e8.jpg": {
+      "sha256": "2590898467344707cef7502037dbd01e27ffe7de9082f046fb7957f89d7f3584",
+      "bytes": 702704
+    },
+    "research/surveys/269fb844eb924b793c073f5976303a275c879b35e02c4c14055e78bcb4cfbd44/custom-rig-fov-survey/thumbnails/ngc281-f30-23a93933c7.jpg": {
+      "sha256": "269fb844eb924b793c073f5976303a275c879b35e02c4c14055e78bcb4cfbd44",
+      "bytes": 49809
+    },
+    "research/surveys/2d3940cba7fc8cbc644e97c053a20605965ef39b1c984653f33b81646d0c32f5/custom-rig-fov-survey/heroes/m16-registered-hero-92f658bd93.jpg": {
+      "sha256": "2d3940cba7fc8cbc644e97c053a20605965ef39b1c984653f33b81646d0c32f5",
+      "bytes": 290580
+    },
+    "research/surveys/2e5c1212cafc57b819f6d2f15fcfd47abe6914f87f96a6ff213d2d7eab61badc/custom-rig-fov-survey/thumbnails/m51-s30-pro-1d3de7ca99.jpg": {
+      "sha256": "2e5c1212cafc57b819f6d2f15fcfd47abe6914f87f96a6ff213d2d7eab61badc",
+      "bytes": 17499
+    },
+    "research/surveys/310965e657d383d32026c87078965e45835ad8d2635051eb806d8c5d67c3648d/custom-rig-fov-survey/thumbnails/ngc6888-woz61-7700bbd3e8.jpg": {
+      "sha256": "310965e657d383d32026c87078965e45835ad8d2635051eb806d8c5d67c3648d",
+      "bytes": 42764
+    },
+    "research/surveys/3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3/andromeda-survey/images/m34-278e514f0ac2.jpg": {
+      "sha256": "3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3",
+      "bytes": 3388012
+    },
+    "research/surveys/38a78aa3ff7005ed9ddded8cdcade1a86e99604a2e12dcda2d7799bfc9cbc0a7/custom-rig-fov-survey/thumbnails/m16-woz61-9e8eeac1c8.jpg": {
+      "sha256": "38a78aa3ff7005ed9ddded8cdcade1a86e99604a2e12dcda2d7799bfc9cbc0a7",
+      "bytes": 28072
+    },
+    "research/surveys/38e371213ff17a5647191eb9b6048260f9c4d0645cf58c38d944211342a01e8f/andromeda-survey/images/triangulum-galaxy-e9737e30e25f.jpg": {
+      "sha256": "38e371213ff17a5647191eb9b6048260f9c4d0645cf58c38d944211342a01e8f",
+      "bytes": 2610994
+    },
+    "research/surveys/3a03232f0559cbf02f3b239a298040a6a91b4ca0fde5e78fb352b6edf61ed546/sagittarius-survey/images/eagle-nebula-1247aea459c7.jpg": {
+      "sha256": "3a03232f0559cbf02f3b239a298040a6a91b4ca0fde5e78fb352b6edf61ed546",
+      "bytes": 3068976
+    },
+    "research/surveys/3d2f3a7d2311fa6aaa4d28121fe815501c6090642c4f32ac7cac7ba3e05973a6/auriga-survey/heroes/milky-way-auriga-and-its-surroundings-compact-scale-map-44e649b916.jpg": {
+      "sha256": "3d2f3a7d2311fa6aaa4d28121fe815501c6090642c4f32ac7cac7ba3e05973a6",
+      "bytes": 182173
+    },
+    "research/surveys/3d2f3a7d2311fa6aaa4d28121fe815501c6090642c4f32ac7cac7ba3e05973a6/auriga-survey/heroes/project-hero.jpg": {
+      "sha256": "3d2f3a7d2311fa6aaa4d28121fe815501c6090642c4f32ac7cac7ba3e05973a6",
+      "bytes": 182173
+    },
+    "research/surveys/3f34e257fe7ebf72e13ef88bcc448e227c7cd4e67c5b82be8f6be28022da3ef5/custom-rig-fov-survey/thumbnails/ngc281-woz61-91829d634c.jpg": {
+      "sha256": "3f34e257fe7ebf72e13ef88bcc448e227c7cd4e67c5b82be8f6be28022da3ef5",
+      "bytes": 37639
+    },
+    "research/surveys/3f4e05b866a052dd3871ed41de0d47098dab1c4402d8f72bac766254a7920e8d/andromeda-survey/images/andromeda-perseus-cassiopeia-411784162a2d.jpg": {
+      "sha256": "3f4e05b866a052dd3871ed41de0d47098dab1c4402d8f72bac766254a7920e8d",
+      "bytes": 15694952
+    },
+    "research/surveys/41440289f997b6c3aebf91c39767e0469b9547f0ade2bb49b3beb12d9f747a94/custom-rig-fov-survey/images/m51-s50-7457120417.jpg": {
+      "sha256": "41440289f997b6c3aebf91c39767e0469b9547f0ade2bb49b3beb12d9f747a94",
+      "bytes": 909720
+    },
+    "research/surveys/44ef5192c4df3c988e38af10390f467cc58847c824eec7362ac0ca61ee0cfc11/andromeda-survey/images/heart-nebula-3c8afa70283f.jpg": {
+      "sha256": "44ef5192c4df3c988e38af10390f467cc58847c824eec7362ac0ca61ee0cfc11",
+      "bytes": 7633332
+    },
+    "research/surveys/460a717565988ea736adfd1d4522735c0b6dae6c91ba848ec8f479821096dc7e/cygnus-vulpecula-survey/heroes/milky-way-cygnus-and-vulpecula-compact-scale-map-e1e3094fb6.jpg": {
+      "sha256": "460a717565988ea736adfd1d4522735c0b6dae6c91ba848ec8f479821096dc7e",
+      "bytes": 276414
+    },
+    "research/surveys/460a717565988ea736adfd1d4522735c0b6dae6c91ba848ec8f479821096dc7e/cygnus-vulpecula-survey/heroes/project-hero.jpg": {
+      "sha256": "460a717565988ea736adfd1d4522735c0b6dae6c91ba848ec8f479821096dc7e",
+      "bytes": 276414
+    },
+    "research/surveys/46a9f7bb7ff3ad6393bd4d413f1e8e640951eb37f4117e65116db03e56fc4336/custom-rig-fov-survey/thumbnails/m51-s50-7457120417.jpg": {
+      "sha256": "46a9f7bb7ff3ad6393bd4d413f1e8e640951eb37f4117e65116db03e56fc4336",
+      "bytes": 23069
+    },
+    "research/surveys/4cd5ce2f1b85bef7a45b8bdf42ddd94db0c7a6856ef53222811eab23ef149b2c/backyard-milkyway-survey/images/sadr-region-d0a6300c8bea.jpg": {
+      "sha256": "4cd5ce2f1b85bef7a45b8bdf42ddd94db0c7a6856ef53222811eab23ef149b2c",
+      "bytes": 7919129
+    },
+    "research/surveys/4f4d141ae208996598199b18db32fb7c22126815dd27875ab30aecf01fe5796c/custom-rig-fov-survey/thumbnails/m16-f30-30b615735f.jpg": {
+      "sha256": "4f4d141ae208996598199b18db32fb7c22126815dd27875ab30aecf01fe5796c",
+      "bytes": 31343
+    },
+    "research/surveys/4fc3286cff42dc812cd840a2ab6993d82fd50872335a95eb9a130a0142ee8596/custom-rig-fov-survey/thumbnails/ngc6888-s30-pro-9b9fd66b68.jpg": {
+      "sha256": "4fc3286cff42dc812cd840a2ab6993d82fd50872335a95eb9a130a0142ee8596",
+      "bytes": 37924
+    },
+    "research/surveys/4fd2874f3a4247888935f53d5824caec566af33814cbcd61632a210833814ef3/andromeda-survey/images/soul-nebula-012baa045a5e.jpg": {
+      "sha256": "4fd2874f3a4247888935f53d5824caec566af33814cbcd61632a210833814ef3",
+      "bytes": 2022959
+    },
+    "research/surveys/5027aecdc142f5cc886841be04fa081ea3b75d96eaf6d59b6eb6694b0755b374/custom-rig-fov-survey/images/ngc6888-f30-692e09453d.jpg": {
+      "sha256": "5027aecdc142f5cc886841be04fa081ea3b75d96eaf6d59b6eb6694b0755b374",
+      "bytes": 747276
+    },
+    "research/surveys/5109c063e827d8a25608898b5a9b6e6a9b391c71eaedf035803cbfd3ff49894a/backyard-milkyway-survey/images/lion-da9bde5bd900.jpg": {
+      "sha256": "5109c063e827d8a25608898b5a9b6e6a9b391c71eaedf035803cbfd3ff49894a",
+      "bytes": 8981092
+    },
+    "research/surveys/5109c063e827d8a25608898b5a9b6e6a9b391c71eaedf035803cbfd3ff49894a/cepheus-cygnus-survey/images/lion-nebula-da9bde5bd900.jpg": {
+      "sha256": "5109c063e827d8a25608898b5a9b6e6a9b391c71eaedf035803cbfd3ff49894a",
+      "bytes": 8981092
+    },
+    "research/surveys/5160e0cf45128465da6ef96c64dbba1cdf54231f4236c52ef6185cd9a6145f6a/custom-rig-fov-survey/thumbnails/ic1396-s50-9666106f2a.jpg": {
+      "sha256": "5160e0cf45128465da6ef96c64dbba1cdf54231f4236c52ef6185cd9a6145f6a",
+      "bytes": 68148
+    },
+    "research/surveys/52627026121f4e69a3000c83cf8e1b70c70976f76ffc44eb246b2eb8e191d339/custom-rig-fov-survey/images/m51-s30-pro-1d3de7ca99.jpg": {
+      "sha256": "52627026121f4e69a3000c83cf8e1b70c70976f76ffc44eb246b2eb8e191d339",
+      "bytes": 468641
+    },
+    "research/surveys/52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa/backyard-milkyway-survey/images/north-america-pelican-50575541da10.jpg": {
+      "sha256": "52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa",
+      "bytes": 13796203
+    },
+    "research/surveys/52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa/cepheus-cygnus-survey/images/north-america-pelican-50575541da10.jpg": {
+      "sha256": "52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa",
+      "bytes": 13796203
+    },
+    "research/surveys/56491e3c305ca7223b045e9028294ef59dfd937e3db8f1c5cde326c736a68031/custom-rig-fov-survey/thumbnails/m51-f30-da8e3a70d6.jpg": {
+      "sha256": "56491e3c305ca7223b045e9028294ef59dfd937e3db8f1c5cde326c736a68031",
+      "bytes": 22994
+    },
+    "research/surveys/56fba50c486e1927344977a7672c75a453e4930fced8d7404b904a2b299d5238/cepheus-cygnus-survey/images/lobster-claw-bubble-c615e5042db1.jpg": {
+      "sha256": "56fba50c486e1927344977a7672c75a453e4930fced8d7404b904a2b299d5238",
+      "bytes": 3139052
+    },
+    "research/surveys/5a1d374b557d8e42be59ac4039388f5207f0e1ccdda41cc8419fa878c8a3bb41/custom-rig-fov-survey/images/ic1396-s30-pro-3209daacba.jpg": {
+      "sha256": "5a1d374b557d8e42be59ac4039388f5207f0e1ccdda41cc8419fa878c8a3bb41",
+      "bytes": 825376
+    },
+    "research/surveys/5a6fbb204421f9848e23eb1032bb46f8ecf0742d97a160eb469dbb2d086ff952/sagittarius-survey/images/trifid-nebula-15ae2b892718.jpg": {
+      "sha256": "5a6fbb204421f9848e23eb1032bb46f8ecf0742d97a160eb469dbb2d086ff952",
+      "bytes": 2453560
+    },
+    "research/surveys/5ee7a1a50d7bdb8342781b1972222db4d0295b5cf8de941892b1a91776e24e71/sagittarius-survey/images/nest-to-swan-22ef9bc160c7.jpg": {
+      "sha256": "5ee7a1a50d7bdb8342781b1972222db4d0295b5cf8de941892b1a91776e24e71",
+      "bytes": 8981607
+    },
+    "research/surveys/60c5cac0863fac134440600da851323aa707f2b7f83a8c4f21117424a9b841d7/sagittarius-survey/images/eagle-and-swan-d8a8171efc30.jpg": {
+      "sha256": "60c5cac0863fac134440600da851323aa707f2b7f83a8c4f21117424a9b841d7",
+      "bytes": 1532965
+    },
+    "research/surveys/6266a896f51c8bc900218564660fb3de90a10f50b000c36206d8dc1768e9b553/sagittarius-survey/images/lagoon-trifid-9bd4b0b05614.jpg": {
+      "sha256": "6266a896f51c8bc900218564660fb3de90a10f50b000c36206d8dc1768e9b553",
+      "bytes": 3101465
+    },
+    "research/surveys/628c47e1cb520e40561e6fcce869f8a25f6ce29369be1d332966673805105abc/orion-survey/heroes/milky-way-orion-and-the-winter-sky-compact-scale-map-9493428e2d.jpg": {
+      "sha256": "628c47e1cb520e40561e6fcce869f8a25f6ce29369be1d332966673805105abc",
+      "bytes": 218680
+    },
+    "research/surveys/628c47e1cb520e40561e6fcce869f8a25f6ce29369be1d332966673805105abc/orion-survey/heroes/project-hero.jpg": {
+      "sha256": "628c47e1cb520e40561e6fcce869f8a25f6ce29369be1d332966673805105abc",
+      "bytes": 218680
+    },
+    "research/surveys/634371940487b57ba737f5b8dde04cd2a281016802c477b80a3a0c0711a837c0/custom-rig-fov-survey/images/ngc281-woz61-91829d634c.jpg": {
+      "sha256": "634371940487b57ba737f5b8dde04cd2a281016802c477b80a3a0c0711a837c0",
+      "bytes": 1014214
+    },
+    "research/surveys/6397a5c889004408845e4fe073d14f62ca00cdb8fefb26407327aa0ece0c7be1/orion-survey/images/angel-nebula-6040bf332b19.jpg": {
+      "sha256": "6397a5c889004408845e4fe073d14f62ca00cdb8fefb26407327aa0ece0c7be1",
+      "bytes": 5973910
+    },
+    "research/surveys/645c02f0276014a7c63b9468ac803fb86e15504175ce1b66c1d9c1a706856cdf/auriga-survey/images/monkey-head-2287a04abe22.jpg": {
+      "sha256": "645c02f0276014a7c63b9468ac803fb86e15504175ce1b66c1d9c1a706856cdf",
+      "bytes": 727941
+    },
+    "research/surveys/645c02f0276014a7c63b9468ac803fb86e15504175ce1b66c1d9c1a706856cdf/orion-survey/images/monkey-head-nebula-2287a04abe22.jpg": {
+      "sha256": "645c02f0276014a7c63b9468ac803fb86e15504175ce1b66c1d9c1a706856cdf",
+      "bytes": 727941
+    },
+    "research/surveys/658d3c1096d8b91fafc81ea7e1fb321822b0b600b1e09bc21bff7d7cf4e3c2d2/custom-rig-fov-survey/images/ic1396-woz61-fea6623bdc.jpg": {
+      "sha256": "658d3c1096d8b91fafc81ea7e1fb321822b0b600b1e09bc21bff7d7cf4e3c2d2",
+      "bytes": 1157650
+    },
+    "research/surveys/6662731d5c0bdd2e27db23cfdfa70f56087008ef13783bfa94c8ae3f0d246e73/custom-rig-fov-survey/thumbnails/ngc6888-s50-46fb8e0c97.jpg": {
+      "sha256": "6662731d5c0bdd2e27db23cfdfa70f56087008ef13783bfa94c8ae3f0d246e73",
+      "bytes": 30896
+    },
+    "research/surveys/69bba68f7bd5c359027f1cc0f7eeec3efb0898e5053dd709f04f4d37e82140de/backyard-milkyway-survey/images/vulpecula-a5d48c02691e.jpg": {
+      "sha256": "69bba68f7bd5c359027f1cc0f7eeec3efb0898e5053dd709f04f4d37e82140de",
+      "bytes": 21756008
+    },
+    "research/surveys/6a9c191f87e0128d65617fc2732c3e89a6a858143235eb054fbbac9c7b0e7f62/custom-rig-fov-survey/thumbnails/m16-s50-6ea50d43de.jpg": {
+      "sha256": "6a9c191f87e0128d65617fc2732c3e89a6a858143235eb054fbbac9c7b0e7f62",
+      "bytes": 39926
+    },
+    "research/surveys/6d706cd05108b68f479b6eb526e0b14e78323aa05a8af2763dfc252fcda4da77/sagittarius-survey/heroes/milky-way-sagittarius-compact-scale-map-b7454f9ec1.jpg": {
+      "sha256": "6d706cd05108b68f479b6eb526e0b14e78323aa05a8af2763dfc252fcda4da77",
+      "bytes": 198143
+    },
+    "research/surveys/6d706cd05108b68f479b6eb526e0b14e78323aa05a8af2763dfc252fcda4da77/sagittarius-survey/heroes/project-hero.jpg": {
+      "sha256": "6d706cd05108b68f479b6eb526e0b14e78323aa05a8af2763dfc252fcda4da77",
+      "bytes": 198143
+    },
+    "research/surveys/6ecda37976f8d228809f8e045580f2e09572f7f83e4eef19e98408c5491ba3d7/andromeda-survey/images/andromeda-region-a739b2143e3c.jpg": {
+      "sha256": "6ecda37976f8d228809f8e045580f2e09572f7f83e4eef19e98408c5491ba3d7",
+      "bytes": 2051545
+    },
+    "research/surveys/7125d670c0f84b423d733171930e42726e4da4fe532b1101a1aa2b1276c40c8b/andromeda-survey/images/sliver-surfer-3d5e0437f593.jpg": {
+      "sha256": "7125d670c0f84b423d733171930e42726e4da4fe532b1101a1aa2b1276c40c8b",
+      "bytes": 6764643
+    },
+    "research/surveys/7253292f2a8acca3484a13595a3e1915d461bb3d1eda4b66e6a8aec4a9315687/custom-rig-fov-survey/thumbnails/ic1396-f30-1db30fbf97.jpg": {
+      "sha256": "7253292f2a8acca3484a13595a3e1915d461bb3d1eda4b66e6a8aec4a9315687",
+      "bytes": 62905
+    },
+    "research/surveys/72f5caff4a20a7eda999c51b5d2bc74f1b504ba5b2f955bb03452dee3e53d805/andromeda-survey/images/andromeda-galaxy-2040a432e445.jpg": {
+      "sha256": "72f5caff4a20a7eda999c51b5d2bc74f1b504ba5b2f955bb03452dee3e53d805",
+      "bytes": 15668077
+    },
+    "research/surveys/7660ab192ccc95ebfef1624abcc1e2a50c8a87082a9161f06780e9acca97dd82/cepheus-cygnus-survey/heroes/milky-way-cepheus-and-cygnus-compact-scale-map-8687617fbb.jpg": {
+      "sha256": "7660ab192ccc95ebfef1624abcc1e2a50c8a87082a9161f06780e9acca97dd82",
+      "bytes": 254025
+    },
+    "research/surveys/7660ab192ccc95ebfef1624abcc1e2a50c8a87082a9161f06780e9acca97dd82/cepheus-cygnus-survey/heroes/project-hero.jpg": {
+      "sha256": "7660ab192ccc95ebfef1624abcc1e2a50c8a87082a9161f06780e9acca97dd82",
+      "bytes": 254025
+    },
+    "research/surveys/7767fcac7095ee5516caac4fdf958a160b52eae9d3a8b63bec11de7b8f65414d/andromeda-survey/images/local-group-dwarfs-122d33fbc604.jpg": {
+      "sha256": "7767fcac7095ee5516caac4fdf958a160b52eae9d3a8b63bec11de7b8f65414d",
+      "bytes": 4705574
+    },
+    "research/surveys/78d9731fdf03b60d9810bc4c28b17704d957e647418944929c047e533c97e69c/sagittarius-survey/images/m22-5772f1c51ba9.jpg": {
+      "sha256": "78d9731fdf03b60d9810bc4c28b17704d957e647418944929c047e533c97e69c",
+      "bytes": 2617896
+    },
+    "research/surveys/793739847bdf0ef6795f88481f554cf2697402a39bc5899640838c658de0baed/andromeda-survey/images/heart-soul-d645bcd43a9d.jpg": {
+      "sha256": "793739847bdf0ef6795f88481f554cf2697402a39bc5899640838c658de0baed",
+      "bytes": 8640887
+    },
+    "research/surveys/7e7d590064fd2b8b7c5182e5e42eec660d7b73929b19e0be7eeb9cd2d101ea89/cepheus-cygnus-survey/images/iris-nebula-152285d872e1.jpg": {
+      "sha256": "7e7d590064fd2b8b7c5182e5e42eec660d7b73929b19e0be7eeb9cd2d101ea89",
+      "bytes": 3845846
+    },
+    "research/surveys/7f7f0e66b24cb1c285acb5b2071631b1ea9d452ebfec67bae38a0e1ad832ecb4/andromeda-survey/images/fossil-footprint-678b56641cf6.jpg": {
+      "sha256": "7f7f0e66b24cb1c285acb5b2071631b1ea9d452ebfec67bae38a0e1ad832ecb4",
+      "bytes": 2332853
+    },
+    "research/surveys/7f7f0e66b24cb1c285acb5b2071631b1ea9d452ebfec67bae38a0e1ad832ecb4/auriga-survey/images/fossil-footprint-678b56641cf6.jpg": {
+      "sha256": "7f7f0e66b24cb1c285acb5b2071631b1ea9d452ebfec67bae38a0e1ad832ecb4",
+      "bytes": 2332853
+    },
+    "research/surveys/84ae9f9a6b3a1e7fba2fe484ce043fb55060a9994587bc4da1f350c81431b135/andromeda-survey/images/northern-trifid-c86b73150fc4.jpg": {
+      "sha256": "84ae9f9a6b3a1e7fba2fe484ce043fb55060a9994587bc4da1f350c81431b135",
+      "bytes": 1767179
+    },
+    "research/surveys/84ae9f9a6b3a1e7fba2fe484ce043fb55060a9994587bc4da1f350c81431b135/auriga-survey/images/northern-trifid-c86b73150fc4.jpg": {
+      "sha256": "84ae9f9a6b3a1e7fba2fe484ce043fb55060a9994587bc4da1f350c81431b135",
+      "bytes": 1767179
+    },
+    "research/surveys/886b0f1b16f507228638ec2dae1787e2a6e9f0588e5df3fa3e825aad2b2bd539/custom-rig-fov-survey/thumbnails/ngc6888-f30-692e09453d.jpg": {
+      "sha256": "886b0f1b16f507228638ec2dae1787e2a6e9f0588e5df3fa3e825aad2b2bd539",
+      "bytes": 55454
+    },
+    "research/surveys/8a3eb391255ae50bcb9311e403e126434c45db12e90f031553b2e3286f7baf47/custom-rig-fov-survey/images/m16-s50-6ea50d43de.jpg": {
+      "sha256": "8a3eb391255ae50bcb9311e403e126434c45db12e90f031553b2e3286f7baf47",
+      "bytes": 729948
+    },
+    "research/surveys/8cd3615b908beeeed108bd11eb68fc6cffa24d187a51ba45e3b5842c0031ef70/custom-rig-fov-survey/images/ngc281-f30-23a93933c7.jpg": {
+      "sha256": "8cd3615b908beeeed108bd11eb68fc6cffa24d187a51ba45e3b5842c0031ef70",
+      "bytes": 813908
+    },
+    "research/surveys/92e6068d2874f6a243cb42923c0d757b2300adcc4ce339b4b7669e81d38acc3c/custom-rig-fov-survey/images/m16-f30-30b615735f.jpg": {
+      "sha256": "92e6068d2874f6a243cb42923c0d757b2300adcc4ce339b4b7669e81d38acc3c",
+      "bytes": 690758
+    },
+    "research/surveys/946ffb9546eb9cd8a5864f7c8b03b077b960e9caf5d0111099c00c3931170bd7/cepheus-cygnus-survey/images/cepheus-cygnus-410c7b9a7d6c.jpg": {
+      "sha256": "946ffb9546eb9cd8a5864f7c8b03b077b960e9caf5d0111099c00c3931170bd7",
+      "bytes": 3782231
+    },
+    "research/surveys/958fcf2022f87c2d5536b62968bc9a2cc9c9344fda24fae936619490a82da07d/custom-rig-fov-survey/thumbnails/ic1396-woz61-fea6623bdc.jpg": {
+      "sha256": "958fcf2022f87c2d5536b62968bc9a2cc9c9344fda24fae936619490a82da07d",
+      "bytes": 49509
+    },
+    "research/surveys/9743834ae3b4d9507186596594ee2e3880ea4af000ab9798e3abee0bfea06191/sagittarius-survey/images/eagle-detail-f3ff8e2aa77d.jpg": {
+      "sha256": "9743834ae3b4d9507186596594ee2e3880ea4af000ab9798e3abee0bfea06191",
+      "bytes": 960565
+    },
+    "research/surveys/98e3f52fbfff5fc1c2e18764c7a8133987e5b12a918bf571aa9c6ccf49ea1f8a/custom-rig-fov-survey/images/m16-woz61-9e8eeac1c8.jpg": {
+      "sha256": "98e3f52fbfff5fc1c2e18764c7a8133987e5b12a918bf571aa9c6ccf49ea1f8a",
+      "bytes": 483486
+    },
+    "research/surveys/9a81817c7efd26b2742c9595e5488a3b1202a54b1b478bbe1682faef35d14f84/custom-rig-fov-survey/images/m51-woz61-f3034d896a.jpg": {
+      "sha256": "9a81817c7efd26b2742c9595e5488a3b1202a54b1b478bbe1682faef35d14f84",
+      "bytes": 561235
+    },
+    "research/surveys/9e354d206eb11f5ad1470e835de128dbcff56c213e60a33913cc9e32cf026da3/andromeda-survey/images/ngc1333-f2daa96fa107.jpg": {
+      "sha256": "9e354d206eb11f5ad1470e835de128dbcff56c213e60a33913cc9e32cf026da3",
+      "bytes": 2049625
+    },
+    "research/surveys/aa752d8968e051240dd0b3aad6fd7258b10ec3022c538615b1eeea979479f187/cepheus-cygnus-survey/images/butterfly-cooling-tower-b9f86ce5392c.jpg": {
+      "sha256": "aa752d8968e051240dd0b3aad6fd7258b10ec3022c538615b1eeea979479f187",
+      "bytes": 3693911
+    },
+    "research/surveys/acc62f0805f88bdd56150b19b50c63834f3de8a73c2b710c05cc9344d07809f9/custom-rig-fov-survey/images/ngc281-s50-5ecb97d54a.jpg": {
+      "sha256": "acc62f0805f88bdd56150b19b50c63834f3de8a73c2b710c05cc9344d07809f9",
+      "bytes": 1876247
+    },
+    "research/surveys/b6bdeb2bb71775e02ecf693036143b588fcbe8c4819cc13031ee504147462455/backyard-milkyway-survey/images/butterfly-crescent-c7b365598049.jpg": {
+      "sha256": "b6bdeb2bb71775e02ecf693036143b588fcbe8c4819cc13031ee504147462455",
+      "bytes": 48271519
+    },
+    "research/surveys/ba15df4ac5492d713a1f9362bafceda0188f6d940788bbf7728d1f5c0ca6387d/orion-survey/images/horsehead-c6-715df0d92c11.jpg": {
+      "sha256": "ba15df4ac5492d713a1f9362bafceda0188f6d940788bbf7728d1f5c0ca6387d",
+      "bytes": 3858665
+    },
+    "research/surveys/c5980cf7e2ccb63976a6ba9ead188393850fe4575a19f138450b3c886fed885c/custom-rig-fov-survey/thumbnails/m51-woz61-f3034d896a.jpg": {
+      "sha256": "c5980cf7e2ccb63976a6ba9ead188393850fe4575a19f138450b3c886fed885c",
+      "bytes": 18293
+    },
+    "research/surveys/cf8bc617d806b2815ab39657de4ce30584e74ba3e2b9d713d04fe1e948916f2d/custom-rig-fov-survey/images/m16-s30-pro-bcc5288282.jpg": {
+      "sha256": "cf8bc617d806b2815ab39657de4ce30584e74ba3e2b9d713d04fe1e948916f2d",
+      "bytes": 739508
+    },
+    "research/surveys/d523ebacf17cff948270f6485cb8ea4c4708029baba4316b29e10ec210f21582/custom-rig-fov-survey/images/ngc281-s30-pro-b699238312.jpg": {
+      "sha256": "d523ebacf17cff948270f6485cb8ea4c4708029baba4316b29e10ec210f21582",
+      "bytes": 1976201
+    },
+    "research/surveys/d681b2421d2f0f950eabc5cc8fe03b9be2883694871b41a32084cd6850a2a503/andromeda-survey/heroes/milky-way-andromeda-perseus-and-cassiopeia-compact-scale-map-6c81c1143e.jpg": {
+      "sha256": "d681b2421d2f0f950eabc5cc8fe03b9be2883694871b41a32084cd6850a2a503",
+      "bytes": 271852
+    },
+    "research/surveys/d681b2421d2f0f950eabc5cc8fe03b9be2883694871b41a32084cd6850a2a503/andromeda-survey/heroes/project-hero.jpg": {
+      "sha256": "d681b2421d2f0f950eabc5cc8fe03b9be2883694871b41a32084cd6850a2a503",
+      "bytes": 271852
+    },
+    "research/surveys/d7d6502250f9e96e19cdc77bca530ee5fd77734aafe9d5b7c056f3bee3c4b5c4/custom-rig-fov-survey/images/ngc6888-s50-46fb8e0c97.jpg": {
+      "sha256": "d7d6502250f9e96e19cdc77bca530ee5fd77734aafe9d5b7c056f3bee3c4b5c4",
+      "bytes": 913231
+    },
+    "research/surveys/dbe35534aa86bac8caa32350d86dca34295f34f29bc29720d98fe4b26f234701/sagittarius-survey/images/nest-to-lagoon-3c4712ea17fc.jpg": {
+      "sha256": "dbe35534aa86bac8caa32350d86dca34295f34f29bc29720d98fe4b26f234701",
+      "bytes": 59775202
+    },
+    "research/surveys/de18cdddc979bd3c7f282a80b1409ab793cf0f3b015c193ce17c2acdbd2a7fdf/backyard-milkyway-survey/images/tulip-e1f9f5f1bdab.jpg": {
+      "sha256": "de18cdddc979bd3c7f282a80b1409ab793cf0f3b015c193ce17c2acdbd2a7fdf",
+      "bytes": 1868544
+    },
+    "research/surveys/e03b63f062077fab384c3f1b22e2082bcba5bc1048a0bfbf74b5e3cec1efad0b/backyard-milkyway-survey/images/wizard-e258b3b2180e.jpg": {
+      "sha256": "e03b63f062077fab384c3f1b22e2082bcba5bc1048a0bfbf74b5e3cec1efad0b",
+      "bytes": 10016635
+    },
+    "research/surveys/e03b63f062077fab384c3f1b22e2082bcba5bc1048a0bfbf74b5e3cec1efad0b/cepheus-cygnus-survey/images/wizard-nebula-e258b3b2180e.jpg": {
+      "sha256": "e03b63f062077fab384c3f1b22e2082bcba5bc1048a0bfbf74b5e3cec1efad0b",
+      "bytes": 10016635
+    },
+    "research/surveys/ef8d7437ebdd71601f49f5e1083e6d3a7c611abb853768a16c01150acf72b926/orion-survey/images/orion-nebula-ba795fa95ccf.jpg": {
+      "sha256": "ef8d7437ebdd71601f49f5e1083e6d3a7c611abb853768a16c01150acf72b926",
+      "bytes": 1674830
+    },
+    "research/surveys/f01e69477c806308378226e1296915e1c252bc07c4835707f4ebf166d8d6bcf6/orion-survey/images/witch-head-nebula-84fc1a2ebda8.jpg": {
+      "sha256": "f01e69477c806308378226e1296915e1c252bc07c4835707f4ebf166d8d6bcf6",
+      "bytes": 17110592
+    },
+    "research/surveys/f8f889d5ac95d36adb8198c44da3ede1f06218ebcfe139ea06b8d784d250cd28/andromeda-survey/images/california-nebula-e34ed0220685.jpg": {
+      "sha256": "f8f889d5ac95d36adb8198c44da3ede1f06218ebcfe139ea06b8d784d250cd28",
+      "bytes": 2287102
+    },
+    "research/surveys/f8f889d5ac95d36adb8198c44da3ede1f06218ebcfe139ea06b8d784d250cd28/auriga-survey/images/california-e34ed0220685.jpg": {
+      "sha256": "f8f889d5ac95d36adb8198c44da3ede1f06218ebcfe139ea06b8d784d250cd28",
+      "bytes": 2287102
+    },
+    "research/surveys/fa19142426ce7367fbccd2282ea602dff8c5e3be3e1c541da01736cf7217b70a/andromeda-survey/images/pleiades-044e65c2497c.jpg": {
+      "sha256": "fa19142426ce7367fbccd2282ea602dff8c5e3be3e1c541da01736cf7217b70a",
+      "bytes": 10063390
+    },
+    "research/surveys/fa2d89c15b3b8129e2f0a83ba722d51f78979240820922df90ca66115abd3dbe/sagittarius-survey/images/sagittarius-0669cca61994.jpg": {
+      "sha256": "fa2d89c15b3b8129e2f0a83ba722d51f78979240820922df90ca66115abd3dbe",
+      "bytes": 4776401
+    },
+    "research/surveys/faf68fdb51297f992e9d02c5e8580ffa0facd10fda4c853747cc91e4c5daa292/cepheus-cygnus-survey/images/dark-shark-wolfs-cave-952034cc7c2d.jpg": {
+      "sha256": "faf68fdb51297f992e9d02c5e8580ffa0facd10fda4c853747cc91e4c5daa292",
+      "bytes": 3278986
+    },
+    "research/surveys/fee0de94d0a151d634d69fade68f83fdbbe6c2e4c07e6295da7eec18b8fd3210/sagittarius-survey/images/m11-2a5e66918f62.jpg": {
+      "sha256": "fee0de94d0a151d634d69fade68f83fdbbe6c2e4c07e6295da7eec18b8fd3210",
+      "bytes": 2488554
+    }
+  }
+}

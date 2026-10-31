@@ -1,0 +1,2 @@
+# Preserve published images, tiles, and metadata byte-for-byte.
+public/** -text
