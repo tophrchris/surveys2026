@@ -110,6 +110,10 @@
       "sha256": "3d2f3a7d2311fa6aaa4d28121fe815501c6090642c4f32ac7cac7ba3e05973a6",
       "bytes": 182173
     },
+    "research/surveys/3e4c776b1c2d338c44aec178ed6a491d11e40b37b89f117ee73ea921c5720e0e/orion-survey/images/m78-ce65a9f4a1a8.jpg": {
+      "sha256": "3e4c776b1c2d338c44aec178ed6a491d11e40b37b89f117ee73ea921c5720e0e",
+      "bytes": 2480568
+    },
     "research/surveys/3f34e257fe7ebf72e13ef88bcc448e227c7cd4e67c5b82be8f6be28022da3ef5/custom-rig-fov-survey/thumbnails/ngc281-woz61-91829d634c.jpg": {
       "sha256": "3f34e257fe7ebf72e13ef88bcc448e227c7cd4e67c5b82be8f6be28022da3ef5",
       "bytes": 37639
@@ -197,6 +201,14 @@
     "research/surveys/5a6fbb204421f9848e23eb1032bb46f8ecf0742d97a160eb469dbb2d086ff952/sagittarius-survey/images/trifid-nebula-15ae2b892718.jpg": {
       "sha256": "5a6fbb204421f9848e23eb1032bb46f8ecf0742d97a160eb469dbb2d086ff952",
       "bytes": 2453560
+    },
+    "research/surveys/5ccd86bfae495a9d2dd857e4ebd84582cfcab202910667f2db5034833d7e1983/orion-survey/heroes/milky-way-orion-and-the-winter-sky-compact-scale-map-252b54ac86.jpg": {
+      "sha256": "5ccd86bfae495a9d2dd857e4ebd84582cfcab202910667f2db5034833d7e1983",
+      "bytes": 238175
+    },
+    "research/surveys/5ccd86bfae495a9d2dd857e4ebd84582cfcab202910667f2db5034833d7e1983/orion-survey/heroes/project-hero.jpg": {
+      "sha256": "5ccd86bfae495a9d2dd857e4ebd84582cfcab202910667f2db5034833d7e1983",
+      "bytes": 238175
     },
     "research/surveys/5ee7a1a50d7bdb8342781b1972222db4d0295b5cf8de941892b1a91776e24e71/sagittarius-survey/images/nest-to-swan-22ef9bc160c7.jpg": {
       "sha256": "5ee7a1a50d7bdb8342781b1972222db4d0295b5cf8de941892b1a91776e24e71",
