@@ -86,6 +86,14 @@
       "sha256": "310965e657d383d32026c87078965e45835ad8d2635051eb806d8c5d67c3648d",
       "bytes": 42764
     },
+    "research/surveys/330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a/orion-survey/heroes/milky-way-orion-and-the-winter-sky-compact-scale-map-e78781e5bd.jpg": {
+      "sha256": "330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a",
+      "bytes": 236696
+    },
+    "research/surveys/330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a/orion-survey/heroes/project-hero.jpg": {
+      "sha256": "330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a",
+      "bytes": 236696
+    },
     "research/surveys/3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3/andromeda-survey/images/m34-278e514f0ac2.jpg": {
       "sha256": "3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3",
       "bytes": 3388012
@@ -338,6 +346,22 @@
       "sha256": "8cd3615b908beeeed108bd11eb68fc6cffa24d187a51ba45e3b5842c0031ef70",
       "bytes": 813908
     },
+    "research/surveys/8e612312c0ef7d7f305ae93065d26b5df5cb61c2d1d8f7b682bcaa3ebc8bd27e/cygnus-vulpecula-survey/heroes/milky-way-cygnus-and-vulpecula-compact-scale-map-9501996035.jpg": {
+      "sha256": "8e612312c0ef7d7f305ae93065d26b5df5cb61c2d1d8f7b682bcaa3ebc8bd27e",
+      "bytes": 285922
+    },
+    "research/surveys/8e612312c0ef7d7f305ae93065d26b5df5cb61c2d1d8f7b682bcaa3ebc8bd27e/cygnus-vulpecula-survey/heroes/project-hero.jpg": {
+      "sha256": "8e612312c0ef7d7f305ae93065d26b5df5cb61c2d1d8f7b682bcaa3ebc8bd27e",
+      "bytes": 285922
+    },
+    "research/surveys/9097c41b5ee41eb766948e37a20e9f955d0a6650c3c22d3dcc1868c244ef11a4/cepheus-cygnus-survey/heroes/milky-way-cepheus-and-cygnus-compact-scale-map-5b90f9d11a.jpg": {
+      "sha256": "9097c41b5ee41eb766948e37a20e9f955d0a6650c3c22d3dcc1868c244ef11a4",
+      "bytes": 263804
+    },
+    "research/surveys/9097c41b5ee41eb766948e37a20e9f955d0a6650c3c22d3dcc1868c244ef11a4/cepheus-cygnus-survey/heroes/project-hero.jpg": {
+      "sha256": "9097c41b5ee41eb766948e37a20e9f955d0a6650c3c22d3dcc1868c244ef11a4",
+      "bytes": 263804
+    },
     "research/surveys/92e6068d2874f6a243cb42923c0d757b2300adcc4ce339b4b7669e81d38acc3c/custom-rig-fov-survey/images/m16-f30-30b615735f.jpg": {
       "sha256": "92e6068d2874f6a243cb42923c0d757b2300adcc4ce339b4b7669e81d38acc3c",
       "bytes": 690758
@@ -365,6 +389,18 @@
     "research/surveys/9e354d206eb11f5ad1470e835de128dbcff56c213e60a33913cc9e32cf026da3/andromeda-survey/images/ngc1333-f2daa96fa107.jpg": {
       "sha256": "9e354d206eb11f5ad1470e835de128dbcff56c213e60a33913cc9e32cf026da3",
       "bytes": 2049625
+    },
+    "research/surveys/a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3/backyard-milkyway-survey/images/pelican-detail-d4fc13089862.jpg": {
+      "sha256": "a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3",
+      "bytes": 8922110
+    },
+    "research/surveys/a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3/cepheus-cygnus-survey/images/pelican-detail-d4fc13089862.jpg": {
+      "sha256": "a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3",
+      "bytes": 8922110
+    },
+    "research/surveys/a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3/cygnus-vulpecula-survey/images/pelican-detail-d4fc13089862.jpg": {
+      "sha256": "a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3",
+      "bytes": 8922110
     },
     "research/surveys/aa752d8968e051240dd0b3aad6fd7258b10ec3022c538615b1eeea979479f187/cepheus-cygnus-survey/images/butterfly-cooling-tower-b9f86ce5392c.jpg": {
       "sha256": "aa752d8968e051240dd0b3aad6fd7258b10ec3022c538615b1eeea979479f187",
@@ -409,6 +445,14 @@
     "research/surveys/dbe35534aa86bac8caa32350d86dca34295f34f29bc29720d98fe4b26f234701/sagittarius-survey/images/nest-to-lagoon-3c4712ea17fc.jpg": {
       "sha256": "dbe35534aa86bac8caa32350d86dca34295f34f29bc29720d98fe4b26f234701",
       "bytes": 59775202
+    },
+    "research/surveys/dd03e37ad429f3687910f1e77f360b3f2c6b93c48acb0f2c18ebb8e3b6d5ebaa/backyard-milkyway-survey/heroes/milky-way-cepheus-through-vulpecula-compact-scale-map-332819e437.jpg": {
+      "sha256": "dd03e37ad429f3687910f1e77f360b3f2c6b93c48acb0f2c18ebb8e3b6d5ebaa",
+      "bytes": 271980
+    },
+    "research/surveys/dd03e37ad429f3687910f1e77f360b3f2c6b93c48acb0f2c18ebb8e3b6d5ebaa/backyard-milkyway-survey/heroes/project-hero.jpg": {
+      "sha256": "dd03e37ad429f3687910f1e77f360b3f2c6b93c48acb0f2c18ebb8e3b6d5ebaa",
+      "bytes": 271980
     },
     "research/surveys/de18cdddc979bd3c7f282a80b1409ab793cf0f3b015c193ce17c2acdbd2a7fdf/backyard-milkyway-survey/images/tulip-e1f9f5f1bdab.jpg": {
       "sha256": "de18cdddc979bd3c7f282a80b1409ab793cf0f3b015c193ce17c2acdbd2a7fdf",
