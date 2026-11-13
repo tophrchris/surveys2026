@@ -402,6 +402,14 @@
       "sha256": "9e354d206eb11f5ad1470e835de128dbcff56c213e60a33913cc9e32cf026da3",
       "bytes": 2049625
     },
+    "research/surveys/a49e16880c4c897507fe21a72ef1251e6748980176fba6287f1733cd0241a020/andromeda-survey/heroes/milky-way-andromeda-perseus-and-cassiopeia-compact-scale-map-f8a82f395b.jpg": {
+      "sha256": "a49e16880c4c897507fe21a72ef1251e6748980176fba6287f1733cd0241a020",
+      "bytes": 270004
+    },
+    "research/surveys/a49e16880c4c897507fe21a72ef1251e6748980176fba6287f1733cd0241a020/andromeda-survey/heroes/project-hero.jpg": {
+      "sha256": "a49e16880c4c897507fe21a72ef1251e6748980176fba6287f1733cd0241a020",
+      "bytes": 270004
+    },
     "research/surveys/a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3/backyard-milkyway-survey/images/pelican-detail-d4fc13089862.jpg": {
       "sha256": "a78cb94aface47dcb34944a79d292747945e33422e3f00a83f2e23f0615f96c3",
       "bytes": 8922110
@@ -433,6 +441,10 @@
     "research/surveys/c5980cf7e2ccb63976a6ba9ead188393850fe4575a19f138450b3c886fed885c/custom-rig-fov-survey/thumbnails/m51-woz61-f3034d896a.jpg": {
       "sha256": "c5980cf7e2ccb63976a6ba9ead188393850fe4575a19f138450b3c886fed885c",
       "bytes": 18293
+    },
+    "research/surveys/cba92b8a71c02322f31fe2d13e616619fba686b51e26b44f940799c874335cf8/andromeda-survey/images/andromeda-galaxy-bc7c28a1a1b1.jpg": {
+      "sha256": "cba92b8a71c02322f31fe2d13e616619fba686b51e26b44f940799c874335cf8",
+      "bytes": 4979904
     },
     "research/surveys/cf8bc617d806b2815ab39657de4ce30584e74ba3e2b9d713d04fe1e948916f2d/custom-rig-fov-survey/images/m16-s30-pro-bcc5288282.jpg": {
       "sha256": "cf8bc617d806b2815ab39657de4ce30584e74ba3e2b9d713d04fe1e948916f2d",
