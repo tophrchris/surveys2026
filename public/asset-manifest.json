@@ -66,6 +66,10 @@
       "sha256": "269fb844eb924b793c073f5976303a275c879b35e02c4c14055e78bcb4cfbd44",
       "bytes": 49809
     },
+    "research/surveys/28f8b88a6d49810cde9566e8bf35093ccfc2465dac83f50ab4971a8cd2db9f5f/andromeda-survey/images/pleiades-3bad9d92020d.jpg": {
+      "sha256": "28f8b88a6d49810cde9566e8bf35093ccfc2465dac83f50ab4971a8cd2db9f5f",
+      "bytes": 6889916
+    },
     "research/surveys/2a1fb3923a260c75848bda3b5f1b92b6ec6788c1f2a226c22a43be039d3d6dd7/orion-survey/heroes/milky-way-orion-and-the-winter-sky-compact-scale-map-c2631eba2b.jpg": {
       "sha256": "2a1fb3923a260c75848bda3b5f1b92b6ec6788c1f2a226c22a43be039d3d6dd7",
       "bytes": 238013
@@ -149,6 +153,14 @@
     "research/surveys/46a9f7bb7ff3ad6393bd4d413f1e8e640951eb37f4117e65116db03e56fc4336/custom-rig-fov-survey/thumbnails/m51-s50-7457120417.jpg": {
       "sha256": "46a9f7bb7ff3ad6393bd4d413f1e8e640951eb37f4117e65116db03e56fc4336",
       "bytes": 23069
+    },
+    "research/surveys/470a2a2c61cd5e86cf33accec9ad11e36d3772356bd8c59ee0547e25a48ccb6b/andromeda-survey/heroes/milky-way-andromeda-perseus-and-cassiopeia-compact-scale-map-c87cf64a4a.jpg": {
+      "sha256": "470a2a2c61cd5e86cf33accec9ad11e36d3772356bd8c59ee0547e25a48ccb6b",
+      "bytes": 270535
+    },
+    "research/surveys/470a2a2c61cd5e86cf33accec9ad11e36d3772356bd8c59ee0547e25a48ccb6b/andromeda-survey/heroes/project-hero.jpg": {
+      "sha256": "470a2a2c61cd5e86cf33accec9ad11e36d3772356bd8c59ee0547e25a48ccb6b",
+      "bytes": 270535
     },
     "research/surveys/4cd5ce2f1b85bef7a45b8bdf42ddd94db0c7a6856ef53222811eab23ef149b2c/backyard-milkyway-survey/images/sadr-region-d0a6300c8bea.jpg": {
       "sha256": "4cd5ce2f1b85bef7a45b8bdf42ddd94db0c7a6856ef53222811eab23ef149b2c",
