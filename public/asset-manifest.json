@@ -78,6 +78,18 @@
       "sha256": "2a1fb3923a260c75848bda3b5f1b92b6ec6788c1f2a226c22a43be039d3d6dd7",
       "bytes": 238013
     },
+    "research/surveys/2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0/backyard-milkyway-survey/images/flying-bat-f54e21894e48.jpg": {
+      "sha256": "2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0",
+      "bytes": 20797484
+    },
+    "research/surveys/2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0/cepheus-cygnus-survey/images/flying-bat-f54e21894e48.jpg": {
+      "sha256": "2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0",
+      "bytes": 20797484
+    },
+    "research/surveys/2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0/cygnus-vulpecula-survey/images/flying-bat-f54e21894e48.jpg": {
+      "sha256": "2bf86e4e5c7d6eded21db96d02d74c40197db9928423cd84e67130a04bd03ed0",
+      "bytes": 20797484
+    },
     "research/surveys/2d3940cba7fc8cbc644e97c053a20605965ef39b1c984653f33b81646d0c32f5/custom-rig-fov-survey/heroes/m16-registered-hero-92f658bd93.jpg": {
       "sha256": "2d3940cba7fc8cbc644e97c053a20605965ef39b1c984653f33b81646d0c32f5",
       "bytes": 290580
@@ -85,6 +97,14 @@
     "research/surveys/2e5c1212cafc57b819f6d2f15fcfd47abe6914f87f96a6ff213d2d7eab61badc/custom-rig-fov-survey/thumbnails/m51-s30-pro-1d3de7ca99.jpg": {
       "sha256": "2e5c1212cafc57b819f6d2f15fcfd47abe6914f87f96a6ff213d2d7eab61badc",
       "bytes": 17499
+    },
+    "research/surveys/2f632643bed2875f8cb3867af29f31525a6ec3da3e55985c35496236c51c0189/backyard-milkyway-survey/heroes/milky-way-cepheus-through-vulpecula-compact-scale-map-3d8e196a53.jpg": {
+      "sha256": "2f632643bed2875f8cb3867af29f31525a6ec3da3e55985c35496236c51c0189",
+      "bytes": 276572
+    },
+    "research/surveys/2f632643bed2875f8cb3867af29f31525a6ec3da3e55985c35496236c51c0189/backyard-milkyway-survey/heroes/project-hero.jpg": {
+      "sha256": "2f632643bed2875f8cb3867af29f31525a6ec3da3e55985c35496236c51c0189",
+      "bytes": 276572
     },
     "research/surveys/310965e657d383d32026c87078965e45835ad8d2635051eb806d8c5d67c3648d/custom-rig-fov-survey/thumbnails/ngc6888-woz61-7700bbd3e8.jpg": {
       "sha256": "310965e657d383d32026c87078965e45835ad8d2635051eb806d8c5d67c3648d",
@@ -97,6 +117,14 @@
     "research/surveys/330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a/orion-survey/heroes/project-hero.jpg": {
       "sha256": "330abf01ef682ea16d8d70a883aa98595aaaedd18b8d2e71a9d75bed5001d96a",
       "bytes": 236696
+    },
+    "research/surveys/33cd52a0305014bde1a67c7a31698049349f2ae4188bca591ab2212c67c1eccf/cepheus-cygnus-survey/heroes/milky-way-cepheus-and-cygnus-compact-scale-map-be971b1aab.jpg": {
+      "sha256": "33cd52a0305014bde1a67c7a31698049349f2ae4188bca591ab2212c67c1eccf",
+      "bytes": 263657
+    },
+    "research/surveys/33cd52a0305014bde1a67c7a31698049349f2ae4188bca591ab2212c67c1eccf/cepheus-cygnus-survey/heroes/project-hero.jpg": {
+      "sha256": "33cd52a0305014bde1a67c7a31698049349f2ae4188bca591ab2212c67c1eccf",
+      "bytes": 263657
     },
     "research/surveys/3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3/andromeda-survey/images/m34-278e514f0ac2.jpg": {
       "sha256": "3734d96db6d3b1fc247b109b4145acdd580985c8ec98d8a369783466d5f3a3b3",
@@ -205,6 +233,14 @@
     "research/surveys/52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa/cepheus-cygnus-survey/images/north-america-pelican-50575541da10.jpg": {
       "sha256": "52e22c389e9a76b3c89f72e4bbb2003a276722218ed9076720b73c45993f03fa",
       "bytes": 13796203
+    },
+    "research/surveys/546534a57aee06e721bb0530470f4a0aaf49aefb059d34f5a5a01d05ff9c02b1/cygnus-vulpecula-survey/heroes/milky-way-cygnus-and-vulpecula-compact-scale-map-2593f3bafa.jpg": {
+      "sha256": "546534a57aee06e721bb0530470f4a0aaf49aefb059d34f5a5a01d05ff9c02b1",
+      "bytes": 284017
+    },
+    "research/surveys/546534a57aee06e721bb0530470f4a0aaf49aefb059d34f5a5a01d05ff9c02b1/cygnus-vulpecula-survey/heroes/project-hero.jpg": {
+      "sha256": "546534a57aee06e721bb0530470f4a0aaf49aefb059d34f5a5a01d05ff9c02b1",
+      "bytes": 284017
     },
     "research/surveys/56491e3c305ca7223b045e9028294ef59dfd937e3db8f1c5cde326c736a68031/custom-rig-fov-survey/thumbnails/m51-f30-da8e3a70d6.jpg": {
       "sha256": "56491e3c305ca7223b045e9028294ef59dfd937e3db8f1c5cde326c736a68031",
